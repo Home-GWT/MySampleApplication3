@@ -99,3 +99,10 @@ Define value for property 'module': :
 6. Запуститься консоль 'Run Maven Build'
    Кнопка 'Copy to Clipboard' >> генерит/выводит URL-адресс под которым проект можно запустить в веб-браузере [http://127.0.0.1:8888/SampleApplication.html](http://127.0.0.1:8888/SampleApplication.html)
    И вводим URL-адресс проекта в веб-браузере...
+
+
+Хорошая документация по структуре-GWT, GWT-классам и RPC-функциям (для начинающего)
+=================================================================
+* [Введение в платформу веб-инструментария Google Web Toolkit](https://netbeans.org/kb/74/web/quickstart-webapps-gwt_ru.html)
+* [Видеоурок — Java + Intellij IDEA 9 + GWT 2.0 + Apache Tomcat](http://habrahabr.ru/post/87728/)
+
