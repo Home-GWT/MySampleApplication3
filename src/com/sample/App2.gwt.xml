@@ -6,7 +6,7 @@
     <inherits name='com.google.gwt.user.User'/>
 
     <!-- Specify the app entry point class.                   -->
-    <entry-point class='com.sample.client.AppClient'/>
+    <entry-point class='com.sample.client.App'/>
 
     <!-- Specify the app servlets.                            -->
     <servlet path="/MyService" class="com.sample.server.AppServlet2"/>

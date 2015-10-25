@@ -7,11 +7,15 @@ import com.google.gwt.user.client.rpc.AsyncCallback;
 import com.google.gwt.user.client.ui.Button;
 import com.google.gwt.user.client.ui.Label;
 import com.google.gwt.user.client.ui.RootPanel;
+import com.sample.client.gwt_rpc.AppService;
 
 /**
  * Entry point classes define <code>onModuleLoad()</code>
+ * * * * * * * * * * * * * * * * * * * * * * * *
+ * https://netbeans.org/kb/74/web/quickstart-webapps-gwt_ru.html
+ * пример пользовательского интерфейса, созданный как тестовый клиент. Он может использоваться для вызова службы GWT
  */
-public class AppClient implements EntryPoint {
+public class App implements EntryPoint {
 
     public void onModuleLoad() {
         final Button button = new Button("Click me");
